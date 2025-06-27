@@ -1,2 +1,3 @@
 # KMG-Mamba
-Knowledge-guided Multi-scale Graph Mamba for Whole Slide Image Classification
+Minghong Duan
+# Knowledge-guided Multi-scale Graph Mamba for Whole Slide Image Classification
